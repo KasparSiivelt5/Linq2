@@ -1,0 +1,8 @@
+C:\Users\Sass\source\repos\Linqmeetod\Linqmeetod\bin\Debug\Linqmeetod.exe.config
+C:\Users\Sass\source\repos\Linqmeetod\Linqmeetod\bin\Debug\Linqmeetod.exe
+C:\Users\Sass\source\repos\Linqmeetod\Linqmeetod\bin\Debug\Linqmeetod.pdb
+C:\Users\Sass\source\repos\Linqmeetod\Linqmeetod\obj\Debug\Linqmeetod.csproj.AssemblyReference.cache
+C:\Users\Sass\source\repos\Linqmeetod\Linqmeetod\obj\Debug\Linqmeetod.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sass\source\repos\Linqmeetod\Linqmeetod\obj\Debug\Linqmeetod.csproj.CoreCompileInputs.cache
+C:\Users\Sass\source\repos\Linqmeetod\Linqmeetod\obj\Debug\Linqmeetod.exe
+C:\Users\Sass\source\repos\Linqmeetod\Linqmeetod\obj\Debug\Linqmeetod.pdb
